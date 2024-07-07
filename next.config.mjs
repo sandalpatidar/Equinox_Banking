@@ -15,8 +15,8 @@ export default withSentryConfig(withSentryConfig(nextConfig, {
 
 // Suppresses source map uploading logs during build
 silent: true,
-org: "jsm-x9",
-project: "javascript-nextjs",
+org: "sandal-jsm-sc",
+project: "equinox-banking",
 }, {
 // For all available options, see:
 // https://docs.sentry.io/platforms/javascript/guides/nextjs/manual-setup/
